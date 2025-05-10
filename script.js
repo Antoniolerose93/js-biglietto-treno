@@ -48,3 +48,5 @@ console.log(prezzoFinale.toFixed(2), "Prezzo finale applicato")
 //applico toFixed al prezzo del biglietto in modo da ottenere solo due decimali
 const message =`Il prezzo del biglietto è di ${prezzoFinale.toFixed(2)} Euro`
 console.log(message)
+
+//Completato
